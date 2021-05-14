@@ -25,8 +25,9 @@ text-decoration: none;
 
 header{
 height: max-content;
-
+padding: 20px;
 }
+
 footer {
   text-align: center;
 }
@@ -39,6 +40,7 @@ h3{
 #parent_container {
 border: 2px;
   background-color: #40407A;
+  height:auto;
 }
 
 #child_container {
